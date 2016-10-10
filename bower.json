@@ -1,0 +1,21 @@
+{
+  "name": "node_express",
+  "description": "Building Applications With Node.js And Express 4.0",
+  "main": "",
+  "authors": [
+    "Abderrahman Cheddir"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
